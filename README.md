@@ -1,5 +1,8 @@
 # Retrieval Augmented Generation Methods
 
+![Screenshot_2025-01-25_at_12 23 31_PM-removebg-preview](https://github.com/user-attachments/assets/608762ca-ee96-4f22-a75d-13074f11e6f4)
+
+
 ## Traditional RAG
 ### Paper Title
 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
