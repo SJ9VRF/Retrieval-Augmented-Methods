@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Methods
+# Retrieval Augmented Generation Methods
 
 ## Traditional RAG
 ### Paper Title
